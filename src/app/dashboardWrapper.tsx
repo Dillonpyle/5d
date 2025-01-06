@@ -8,7 +8,7 @@ const dashboardWrapper = ({children}: {children: React.ReactNode}) => {
         sidbar
         <main className={'flex w-full flex-col bg-gray-50 dark:bgdark-bg md:pl-64'}>
             {/* navbar */}
-            navbar
+            navbar1
             {children}
         </main>
     </div>
